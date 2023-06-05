@@ -1,5 +1,5 @@
-AirBnB clone V4 
+AirBnB clone V4 group project done by:
 
 Authors
-Adam Umar Faruq
-Adeleke Adeola
+Ibiniyi Timothy Olutimilehin <timothyniyi@gmail.com> 
+Munir Mujuz
